@@ -11,7 +11,9 @@ local spellsToTrigger = {
     "Touch of Ravenclaw", "Freeze Solid", "Throw Axe", "Stormbolt", "Ground Stomp", "Highlord's Justice",
     "Storm Bolt", "War Stomp", "Cheap Shot", "Kidney Shot", "Pounce", "Hammer of Justice", "Bash", "Kidney Shot",
     "Starfire Stun", "Intimidation", "Improved Concussive Shot", "Impact", "Blackout", "Mace Stun Effect",
-    "Gouge", "Sap", "Seduction", "Concussion Blow", "Intercept Stun", "Knockdown", "Thorium Grenade", "M73 Frag Grenade", "Rough Copper Bomb", "Big Bronze Bomb", "Iron Grenade", "Big Iron Bomb", "Hi-Explosive Bomb", "Goblin Mortar", "Sleep", "Tidal Charm", "Reckless Charge", "Earthshaker", "Stun", "Malown's Slam", "Stunning Blow"
+    "Gouge", "Sap", "Seduction", "Concussion Blow", "Intercept Stun", "Knockdown", "Thorium Grenade", 
+    "M73 Frag Grenade", "Rough Copper Bomb", "Big Bronze Bomb", "Iron Grenade", "Big Iron Bomb", "Hi-Explosive Bomb", 
+    "Goblin Mortar", "Sleep", "Tidal Charm", "Reckless Charge", "Earthshaker", "Stun", "Malown's Slam", "Stunning Blow"
 }
 
 
